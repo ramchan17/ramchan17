@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ramchan17
-- 👀 I’m interested in Backend Development 
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on exciting projects related to Django
+- 💻 Backend Dev at FreJun
+- 👀 I’m interested in Web3 (Solana) and Backend Development
+- 🌱 I’m currently learning Solana development
+- 💞️ I’m looking to collaborate on exciting projects related to Solana
 - 📫 How to reach me https://twitter.com/ram_Chan17
 
 <!---
